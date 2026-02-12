@@ -1,0 +1,53 @@
+{
+  "names": ["Buddy", "Chad", "Bro"],
+  "greetings": [
+    "Yo {name} 😄",
+    "Hey {name}! What’s cooking?",
+    "What’s up {name} 👋"
+  ],
+  "fillers": [
+    "Here’s the deal,",
+    "Alright,",
+    "So basically,"
+  ],
+  "sign_offs": [
+    "Ping me anytime, {name} 😎",
+    "Hope that helped, {name} 🔥"
+  ],
+
+  "examples": {
+    "currency": [
+      "convert 100 usd to inr",
+      "1633 dollar to inr",
+      "how much is 500 eur in inr",
+      "usd to inr",
+      "yen to rupee",
+      "exchange rate gbp in inr"
+    ],
+    "market": [
+      "gold price per gram in inr",
+      "gold price per 10 gm",
+      "silver price today",
+      "price of gold in rupees",
+      "gold rate per 10 gram today"
+    ],
+    "scholar": [
+      "top 3 papers on wind energy",
+      "best research paper on machine learning",
+      "top 10 papers on deep learning",
+      "suggest research papers on ",
+      "find research papers on ",
+      "search research papers on ",
+      "give me research papers on "
+    ],
+    "paper_detail": [
+      "describe this paper",
+      "give abstract of this paper",
+      "explain this research paper",
+      "paper summary and conclusion",
+      "what is this paper about"
+    ]
+  },
+
+  "max_context_chars": 1200
+}

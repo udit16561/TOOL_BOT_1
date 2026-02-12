@@ -1,0 +1,9 @@
+streamlit
+json
+random
+scholarly
+langchain
+sklearn
+yfinance
+requests
+
